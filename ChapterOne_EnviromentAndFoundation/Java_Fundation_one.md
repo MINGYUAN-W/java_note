@@ -256,7 +256,11 @@ System.out.println(scores.length);
 
 ##### 1.java的内存
 
+<img src="https://github.com/MINGYUAN-W/java_note/blob/master/pictures/ChapterOne_EnviromentAndFoundation/java_memory_parsing.png?raw=true" style="zoom:50%;" />
+
 ##### 2.java数组的内存
+
+<img src="https://github.com/MINGYUAN-W/java_note/blob/master/pictures/ChapterOne_EnviromentAndFoundation/java_array_memory_parsing_one.png?raw=true" style="zoom:50%;" />
 
 ##### 3.二维数组
 
@@ -283,6 +287,8 @@ System.out.println(scores.length);
 ```
 
 - 二维数组内存解析
+
+<img src="https://github.com/MINGYUAN-W/java_note/blob/master/pictures/ChapterOne_EnviromentAndFoundation/java_array_memory_parsing_two.png?raw=true" style="zoom:50%;" />
 
 #### 8、数组的一些常用方法
 
